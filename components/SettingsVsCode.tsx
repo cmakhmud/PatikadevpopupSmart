@@ -1,6 +1,6 @@
 import React , {useState , useContext}from 'react'
 import { DataContext } from '../poviders/dataProvider';
-import CopyToClipboard from "react-copy-to-clipboard";
+// import CopyToClipboard from "react-copy-to-clipboard";
 // import SyntaxHighlighter from "react-syntax-highlighter";
 // import { docco } from "react-syntax-highlighter/dist/esm/styles/hljs";
 export default function SettingsVsCode() {
